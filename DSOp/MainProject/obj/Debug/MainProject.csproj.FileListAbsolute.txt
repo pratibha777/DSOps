@@ -1,0 +1,6 @@
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\bin\Debug\Interview.exe.config
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\bin\Debug\Interview.exe
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\bin\Debug\Interview.pdb
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\obj\Debug\MainProject.csprojResolveAssemblyReference.cache
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\obj\Debug\Interview.exe
+C:\Users\prats\Desktop\DSProject\DSOp\MainProject\obj\Debug\Interview.pdb
